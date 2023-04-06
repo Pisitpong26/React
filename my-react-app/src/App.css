@@ -1,0 +1,12 @@
+.Container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 0.5fr 2fr 2fr 0.5fr;
+  place-items: center;
+  background-color: gray;
+
+}
+.Container .Ahan{
+  text-align: center;
+  color: #FFCC00;
+}
